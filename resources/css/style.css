@@ -4,23 +4,24 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-h1 {
+#title {
     font-weight: normal;
     font-size: 50px;
     text-align: center;
 }
 
-h2 {
+.subtitle {
     font-weight: 300;
     font-style: 42px;
+    text-align: center;
 }
 
-h3 {
+#greytext {
     font-size: 21px;
     color: gray;
 }
 
-h4 {
+.link {
     color: aquamarine;
     font-size: 16px;
     font-weight: lighter;
