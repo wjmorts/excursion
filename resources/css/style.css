@@ -1,11 +1,19 @@
 * {
     background-color: black;
     color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
     text-align: center;
+}
+
+h2 {
+    color: aquamarine;
+    font-size: 16px;
+    font-weight: lighter;
+    text-align: center;
+    text-decoration: underline;
 }
